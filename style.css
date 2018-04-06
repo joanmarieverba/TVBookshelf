@@ -2,6 +2,6 @@ body {
     background-color: #A9A9A9;
 }
 
-.top {
-    display: inline-block;
+.jumbotron {
+    margin-top: 10px;
 }
