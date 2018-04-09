@@ -1,7 +1,12 @@
 body {
     background-color: #A9A9A9;
+    margin-left: 10px;
 }
 
 .jumbotron {
     margin-top: 10px;
+}
+
+.3authortop {
+     margin-top: 10px;
 }
