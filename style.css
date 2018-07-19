@@ -1,12 +1,30 @@
 body {
-    background-color: #A9A9A9;
+    /* background-color: #A9A9A9; */
     margin-left: 10px;
+    background-image: url("bookshelf.jpg");
+}
+
+.imageBorder {
+    border: 5px solid black;
 }
 
 .jumbotron {
     margin-top: 10px;
 }
 
-.3authortop {
-     margin-top: 10px;
+.page-header {
+    margin-top: 4vw;
+}
+
+.textbackground {
+    background-color: antiquewhite;
+}
+
+.titleheader {
+    color:white;
+    text-align: center;
+}
+
+.vspace {
+    margin-top: 2vh;
 }
