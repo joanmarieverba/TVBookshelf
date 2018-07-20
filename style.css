@@ -4,6 +4,12 @@ body {
     background-image: url("bookshelf.jpg");
 }
 
+.footer-center {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
 .imageBorder {
     border: 5px solid black;
 }
