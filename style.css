@@ -17,13 +17,13 @@ body {
 .jumbotron {
     margin-top: 10px;
 }
-
-.page-header {
-    margin-top: 4vw;
+.mainTitle {
+    margin-top: 0;
+    margin-bottom: 2vw;
 }
 
 .textbackground {
-    background-color: antiquewhite;
+    background-color: white;
 }
 
 .titleheader {
