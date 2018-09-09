@@ -23,7 +23,8 @@ body {
 }
 
 .textbackground {
-    background-color: white;
+    background-color: azure;
+    border-radius: 10px;
 }
 
 .titleheader {
