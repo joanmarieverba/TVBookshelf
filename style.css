@@ -4,6 +4,10 @@ body {
     background-image: url("bookshelf.jpg");
 }
 
+.bg-blue-book {
+     background-image: url("book-blue.png");
+}
+
 .footer-center {
   color: white;
   font-weight: bold;
@@ -21,6 +25,8 @@ body {
     margin-top: 0;
     margin-bottom: 2vw;
 }
+
+
 
 .textbackground {
     background-color: azure;
