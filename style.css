@@ -45,9 +45,23 @@ body {
     text-align: center;
 }
 
+.over-b {
+    position: relative;
+    margin-left: 3vw;
+    color: black;
+    text-align: center;
+}
+
 .textover {
     position: relative;
     color: azure;
+    margin-top: 9vw;
+    margin-left: 3vw;
+}
+
+.textover-b {
+    position: relative;
+    color:black;
     margin-top: 9vw;
     margin-left: 3vw;
 }
