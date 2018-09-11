@@ -38,6 +38,24 @@ body {
     text-align: center;
 }
 
+.over {
+    position: relative;
+    margin-left: 3vw;
+    color: azure;
+    text-align: center;
+}
+
+.textover {
+    position: relative;
+    color: azure;
+    margin-top: 9vw;
+    margin-left: 3vw;
+}
+
+.under {
+    position:absolute;
+}
+
 .vspace {
     margin-top: 2vh;
 }
