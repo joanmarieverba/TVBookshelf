@@ -8,6 +8,10 @@ body {
      background-image: url("book-blue.png");
 }
 
+.breadcrumb {
+    text-align: center;
+}
+
 .footer-center {
   color: white;
   font-weight: bold;
